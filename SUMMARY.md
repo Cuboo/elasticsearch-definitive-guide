@@ -159,38 +159,37 @@
  * [ICU_plugin](210_Identifying_words/30_ICU_plugin.asciidoc)
  * [ICU_tokenizer](210_Identifying_words/40_ICU_tokenizer.asciidoc)
  * [Tidying_text](210_Identifying_words/50_Tidying_text.asciidoc)
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
-* []
+* [20_Token_normalization](220_Token_normalization/00_Intro.asciidoc)
+ * [Lowercasing](220_Token_normalization/10_Lowercasing.asciidoc)
+ * [Removing_diacritics](220_Token_normalization/20_Removing_diacritics.asciidoc)
+ * [Unicode_world](220_Token_normalization/30_Unicode_world.asciidoc)
+ * [Case_folding](220_Token_normalization/40_Case_folding.asciidoc)
+ * [Character_folding](220_Token_normalization/50_Character_folding.asciidoc)
+ * [Sorting_and_collations](220_Token_normalization/60_Sorting_and_collations.asciidoc)
+* [21_Stemming](230_Stemming/00_Intro.asciidoc)
+ * [Algorithmic_stemmers](230_Stemming/10_Algorithmic_stemmers.asciidoc)
+ * [Dictionary_stemmers](230_Stemming/20_Dictionary_stemmers.asciidoc)
+ * [Hunspell_stemmer](230_Stemming/30_Hunspell_stemmer.asciidoc)
+ * [Choosing_a_stemmer](230_Stemming/40_Choosing_a_stemmer.asciidoc)
+ * [Controlling_stemming](230_Stemming/50_Controlling_stemming.asciidoc)
+ * [Stemming_in_situ](230_Stemming/60_Stemming_in_situ.asciidoc)
+* [22_Stopwords](240_Stopwords/10_Intro.asciidoc)
+ * [Using_stopwords](240_Stopwords/20_Using_stopwords.asciidoc)
+ * [Stopwords_and_performance](240_Stopwords/30_Stopwords_and_performance.asciidoc)
+ * [Divide_and_conquer](240_Stopwords/40_Divide_and_conquer.asciidoc)
+ * [Phrase_queries](240_Stopwords/50_Phrase_queries.asciidoc)
+ * [Common_grams](240_Stopwords/60_Common_grams.asciidoc)
+ * [Relevance](240_Stopwords/70_Relevance.asciidoc)
+* [23_Synonyms](260_Synonyms/10_Intro.asciidoc)
+ * [Using_synonyms](260_Synonyms/20_Using_synonyms.asciidoc)
+ * [Synonym_formats](260_Synonyms/30_Synonym_formats.asciidoc)
+ * [Expand_contract](260_Synonyms/40_Expand_contract.asciidoc)
+ * [Analysis_chain](260_Synonyms/50_Analysis_chain.asciidoc)
+ * [Multi_word_synonyms](260_Synonyms/60_Multi_word_synonyms.asciidoc)
+ * [Symbol_synonyms](260_Synonyms/70_Symbol_synonyms.asciidoc)
+* [24_Fuzzy_matching](270_Fuzzy_matching/10_Intro.asciidoc)
+ * [Fuzziness](270_Fuzzy_matching/20_Fuzziness.asciidoc)
+ * [Fuzzy_query](270_Fuzzy_matching/30_Fuzzy_query.asciidoc)
+ * [Fuzzy_match_query](270_Fuzzy_matching/40_Fuzzy_match_query.asciidoc)
+ * [Scoring_fuzziness](270_Fuzzy_matching/50_Scoring_fuzziness.asciidoc)
+ * [Phonetic_matching](270_Fuzzy_matching/60_Phonetic_matching.asciidoc)
