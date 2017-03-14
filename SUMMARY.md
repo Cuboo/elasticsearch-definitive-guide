@@ -61,13 +61,67 @@
   * [Important_clauses](054_Query_DSL/70_Important_clauses.asciidoc)
   * [Combining_queries_together](054_Query_DSL/75_Combining_queries_together.asciidoc)
   * [Validating_queries](054_Query_DSL/80_Validating_queries.asciidoc)
-* []
-* []
-* []
-* []
-* []
-* []
-* []
+* [08_Sorting]
+ * [Sorting](056_Sorting/85_Sorting.asciidoc)
+ * [String_sorting](056_Sorting/88_String_sorting.asciidoc)
+ * [What_is_relevance](056_Sorting/90_What_is_relevance.asciidoc)
+ * [Docvalues](056_Sorting/95_Docvalues.asciidoc)
+* [09_Distributed_Search]
+ * [Intro](060_Distributed_Search/00_Intro.asciidoc)
+ * [Query_phase](060_Distributed_Search/05_Query_phase.asciidoc)
+ * [Fetch_phase](060_Distributed_Search/10_Fetch_phase.asciidoc)
+ * [Search_options](060_Distributed_Search/15_Search_options.asciidoc)
+ * [Scroll](060_Distributed_Search/20_Scroll.asciidoc)
+* [10_Index_Mgmt]
+ * [Create_Delete](070_Index_Mgmt/05_Create_Delete.asciidoc)
+ * [Settings](070_Index_Mgmt/10_Settings.asciidoc)
+ * [Configure_Analyzer](070_Index_Mgmt/15_Configure_Analyzer.asciidoc)
+ * [Custom_Analyzers](070_Index_Mgmt/20_Custom_Analyzers.asciidoc)
+ * [Mappings](070_Index_Mgmt/25_Mappings.asciidoc)
+ * [Root_Object](070_Index_Mgmt/30_Root_Object.asciidoc)
+ * [Dynamic_Mapping](070_Index_Mgmt/35_Dynamic_Mapping.asciidoc)
+ * [Custom_Dynamic_Mapping](070_Index_Mgmt/40_Custom_Dynamic_Mapping.asciidoc)
+ * [Default_Mapping](070_Index_Mgmt/45_Default_Mapping.asciidoc)
+ * [Reindexing](070_Index_Mgmt/50_Reindexing.asciidoc)
+ * [Aliases](070_Index_Mgmt/55_Aliases.asciidoc)
+* [11_Inside_a_shard]
+ * [Intro](075_Inside_a_shard/10_Intro.asciidoc)
+ * [Making_text_searchable](075_Inside_a_shard/20_Making_text_searchable.asciidoc)
+ * [Dynamic_indices](075_Inside_a_shard/30_Dynamic_indices.asciidoc)
+ * [Near_real_time](075_Inside_a_shard/40_Near_real_time.asciidoc)
+ * [Persistent_changes](075_Inside_a_shard/50_Persistent_changes.asciidoc)
+ * [Segment_merging](075_Inside_a_shard/60_Segment_merging.asciidoc)
+* [12_Structured_Search]
+ * [structuredsearch](080_Structured_Search/00_structuredsearch.asciidoc)
+ * [term](080_Structured_Search/05_term.asciidoc)
+ * [compoundfilters](080_Structured_Search/10_compoundfilters.asciidoc)
+ * [terms](080_Structured_Search/15_terms.asciidoc)
+ * [contains](080_Structured_Search/20_contains.asciidoc)
+ * [ranges](080_Structured_Search/25_ranges.asciidoc)
+ * [existsmissing](080_Structured_Search/30_existsmissing.asciidoc)
+ * [bitsets](080_Structured_Search/40_bitsets.asciidoc)
+* [13_Full_Text_Search]
+ * [Intro](100_Full_Text_Search/00_Intro.asciidoc)
+ * [Match_query](100_Full_Text_Search/05_Match_query.asciidoc)
+ * [Multi_word_queries](100_Full_Text_Search/10_Multi_word_queries.asciidoc)
+ * [Combining_queries](100_Full_Text_Search/15_Combining_queries.asciidoc)
+ * [How_match_uses_bool](100_Full_Text_Search/20_How_match_uses_bool.asciidoc)
+ * [Boosting_clauses](100_Full_Text_Search/25_Boosting_clauses.asciidoc)
+ * [Controlling_analysis](100_Full_Text_Search/30_Controlling_analysis.asciidoc)
+ * [Relevance_is_broken](100_Full_Text_Search/35_Relevance_is_broken.asciidoc)
+* [14_Multi_Field_Search]
+ * [Intro](110_Multi_Field_Search/00_Intro.asciidoc)
+ * [Multiple_query_strings](110_Multi_Field_Search/05_Multiple_query_strings.asciidoc)
+ * [Single_query_string](110_Multi_Field_Search/10_Single_query_string.asciidoc)
+ * [Best_field](110_Multi_Field_Search/15_Best_field.asciidoc)
+ * [Tuning_best_field_queries](110_Multi_Field_Search/20_Tuning_best_field_queries.asciidoc)
+ * [Multi_match_query](110_Multi_Field_Search/25_Multi_match_query.asciidoc)
+ * [Most_fields](110_Multi_Field_Search/30_Most_fields.asciidoc)
+ * [Entity_search](110_Multi_Field_Search/35_Entity_search.asciidoc)
+ * [Field_centric](110_Multi_Field_Search/40_Field_centric.asciidoc)
+ * [Custom_all](110_Multi_Field_Search/45_Custom_all.asciidoc)
+ * [Cross_field](110_Multi_Field_Search/50_Cross_field.asciidoc)
+ * [Not_analyzed](110_Multi_Field_Search/55_Not_analyzed.asciidoc)
 * []
 * []
 * []
