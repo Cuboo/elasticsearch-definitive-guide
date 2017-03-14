@@ -1,0 +1,110 @@
+#summary
+* [01_Intro]
+  * [What_is_it](010_Intro/05_What_is_it.asciidoc)
+  * [Installing_ES](010_Intro/10_Installing_ES.asciidoc)
+  * [API](010_Intro/15_API.asciidoc)
+  * [Document](010_Intro/20_Document.asciidoc)
+  * [Tutorial_Indexing](010_Intro/25_Tutorial_Indexing.asciidoc)
+  * [Tutorial_Search](010_Intro/30_Tutorial_Search.asciidoc)
+  * [Tutorial_Aggregations](010_Intro/35_Tutorial_Aggregations.asciidoc)
+  * [Tutorial_Conclusion](010_Intro/40_Tutorial_Conclusion.asciidoc)
+  * [Distributed](010_Intro/45_Distributed.asciidoc)
+  * [Conclusion](010_Intro/50_Conclusion.asciidoc)
+* [02_Distributed_Cluster]
+  * [Intro](020_Distributed_Cluster/00_Intro.asciidoc)
+  * [Empty_cluster](020_Distributed_Cluster/05_Empty_cluster.asciidoc)
+  * [Cluster_health](020_Distributed_Cluster/10_Cluster_health.asciidoc)
+  * [Add_an_index](020_Distributed_Cluster/15_Add_an_index.asciidoc)
+  * [Add_failover](020_Distributed_Cluster/20_Add_failover.asciidoc)
+  * [Scale_horizontally](020_Distributed_Cluster/25_Scale_horizontally.asciidoc)
+  * [Scale_more](020_Distributed_Cluster/30_Scale_more.asciidoc)
+  * [Coping_with_failure](020_Distributed_Cluster/35_Coping_with_failure.asciidoc)
+* [03_Data]
+  * [Intro](030_Data/00_Intro.asciidoc)
+  * [Document](030_Data/05_Document.asciidoc)
+  * [Index](030_Data/10_Index.asciidoc)
+  * [Get](030_Data/15_Get.asciidoc)
+  * [Exists](030_Data/20_Exists.asciidoc)
+  * [Update](030_Data/25_Update.asciidoc)
+  * [Create](030_Data/30_Create.asciidoc)
+  * [Delete](030_Data/35_Delete.asciidoc)
+  * [Version_control](030_Data/40_Version_control.asciidoc)
+  * [Partial_update](030_Data/45_Partial_update.asciidoc)
+  * [Mget](030_Data/50_Mget.asciidoc)
+  * [Bulk](030_Data/55_Bulk.asciidoc)
+* [04_Distributed_CRUD]
+  * [Intro](040_Distributed_CRUD/00_Intro.asciidoc)
+  * [Routing](040_Distributed_CRUD/05_Routing.asciidoc)
+  * [Shard_interaction](040_Distributed_CRUD/10_Shard_interaction.asciidoc)
+  * [Create_index](040_Distributed_CRUD/15_Create_index_delete.asciidoc)
+  * [Retrieving](040_Distributed_CRUD/20_Retrieving.asciidoc)
+  * [Partial_updates](040_Distributed_CRUD/25_Partial_updates.asciidoc)
+  * [Bulk_requests](040_Distributed_CRUD/30_Bulk_requests.asciidoc)
+  * [Bulk_format](040_Distributed_CRUD/35_Bulk_format.asciidoc)
+* [05_Search]
+  * [Intro](050_Search/00_Intro.asciidoc)
+  * [Empty_search](050_Search/05_Empty_search.asciidoc)
+  * [Multi_index_multi_type](050_Search/10_Multi_index_multi_type.asciidoc)
+  * [Pagination](050_Search/15_Pagination.asciidoc)
+  * [Query_string](050_Search/20_Query_string.asciidoc)
+* [06_Mapping_Analysis]
+  * [Data_type_differences](052_Mapping_Analysis/25_Data_type_differences.asciidoc)
+  * [Exact_vs_full_text](052_Mapping_Analysis/30_Exact_vs_full_text.asciidoc)
+  * [Inverted_index](052_Mapping_Analysis/35_Inverted_index.asciidoc)
+  * [Analysis](052_Mapping_Analysis/40_Analysis.asciidoc)
+  * [Mapping](052_Mapping_Analysis/45_Mapping.asciidoc)
+  * [Complex_datatypes](052_Mapping_Analysis/50_Complex_datatypes.asciidoc)
+* [07_Query_DSL]
+  * [Request_body_search](054_Query_DSL/55_Request_body_search.asciidoc)
+  * [Query_DSL](054_Query_DSL/60_Query_DSL.asciidoc)
+  * [Queries_vs_filters](054_Query_DSL/65_Queries_vs_filters.asciidoc)
+  * [Important_clauses](054_Query_DSL/70_Important_clauses.asciidoc)
+  * [Combining_queries_together](054_Query_DSL/75_Combining_queries_together.asciidoc)
+  * [Validating_queries](054_Query_DSL/80_Validating_queries.asciidoc)
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+* []
